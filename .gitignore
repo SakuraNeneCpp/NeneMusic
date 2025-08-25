@@ -1,0 +1,13 @@
+# Build artefacts
+/build*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.vcxproj*
